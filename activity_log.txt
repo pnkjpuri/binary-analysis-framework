@@ -1,0 +1,67 @@
+
+[26-05-2026 11:13:10]
+User ID Attempt : 1
+Action          : Failed Login Attempt
+----------------------------------------
+
+[26-05-2026 11:16:14]
+User ID Attempt : 194649038
+Action          : Failed Login Attempt
+----------------------------------------
+
+[26-05-2026 11:17:53]
+User ID : 1001
+Name    : Pankaj Puri Goswami
+Action  : Registered Account
+----------------------------------------
+
+[26-05-2026 11:18:16]
+User ID : 1001
+Name    : Pankaj Puri Goswami
+Action  : Login
+----------------------------------------
+
+=====================================================
+DATE : 26-05-2026
+TIME : 11:18:46
+USER ID : 1001
+NAME : Pankaj Puri Goswami
+ACTION : Hex Dump
+FILE : admin.c
+=====================================================
+
+[26-05-2026 11:36:10]
+User ID : 1001
+Name : Pankaj Puri Goswami
+Action : User Login
+----------------------------------
+
+[26-05-2026 11:36:28]
+User ID : 1000
+Name : Pankaj
+Action : Admin Login
+----------------------------------
+
+[26-05-2026 11:47:59]
+User ID : 1000
+Name : Pankaj
+Action : Admin Login
+----------------------------------
+
+[26-05-2026 11:53:37]
+User ID : 1000
+Name : Pankaj
+Action : Admin Login
+----------------------------------
+
+[26-05-2026 12:05:30]
+User ID : 1000
+Name : Pankaj
+Action : Admin Login
+----------------------------------
+
+[26-05-2026 12:06:55]
+User ID : 1000
+Name : Pankaj
+Action : Admin Login
+----------------------------------
